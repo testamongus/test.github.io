@@ -14,7 +14,7 @@ export const tip = [
     "penguinmod:menguinpod, snail-ide:ide-snail, BatsCoding:CodsBating",
     "If the creator of BatsCoding (KotMurkot) enjoys your project, he will give you the COOL badge.",
     "Blud is reading this tip 💀💀💀",
-    "Snails are cool.",
+    "Bats are cool.",
     "Maybe in another universe, bats can't fly(i guess).",
     "I just ate your soul. /j (or is it?)",
     'oh no cringe',
