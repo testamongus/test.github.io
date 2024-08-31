@@ -26,13 +26,13 @@ const manifest = {
       "name": "Text to Speech",
       "id": "text2speech",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     {
       "name": "Translate",
       "id": "translate",
       "type": "boolean",
-      "default": false
+      "default": true
     }
   ],
   "dynamicDisable": true,
