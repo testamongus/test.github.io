@@ -35,28 +35,28 @@ const manifest = {
       "name": "Show experimental keys",
       "id": "experimentalKeys",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     {
       "dynamic": true,
       "name": "Show Shift keys",
       "id": "shiftKeys",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     {
       "dynamic": true,
       "name": "Show TurboWarp keys",
       "id": "twKeys",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     {
       "dynamic": true,
-      "name": "🐌",
-      "id": "snailKey",
+      "name": "🦇",
+      "id": "batKey",
       "type": "boolean",
-      "default": false
+      "default": true
     }
   ],
   "userscripts": [
